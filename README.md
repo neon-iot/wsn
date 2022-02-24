@@ -24,9 +24,9 @@ The last innovation refers updating the laboratories to lab-at-home.
 
 ## What you will need:
 * Required skills:
- - Programación en lenguaje C.
- - Electrónica digital. 
- - Electrónica analógica. 
+    - Programación en lenguaje C.
+    - Electrónica digital. 
+    - Electrónica analógica. 
 * Hardware (kits)
  - (Remote)[https://zolertia.io/product/re-mote/] by (Zolertia)[https://zolertia.io] or
  - Any Lauchpad by (Texas Instruments) supporting IEEE 802.15.4 standard, for example:
