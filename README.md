@@ -36,7 +36,7 @@ The last innovation refers updating the laboratories to lab-at-home.
  	* [Sensortag CC2650STK](https://www.ti.com/tool/CC2650STK)
  	* [Sensortag CC1350STK](https://www.ti.com/tool/CC1350STK)
  - and optionally
- 	* JTAG probe (suggested [J-Link EDU Mini](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/)
+ 	* JTAG probe (suggested [J-Link EDU Mini](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/))
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
