@@ -28,15 +28,15 @@ The last innovation refers updating the laboratories to lab-at-home.
     - Electrónica digital. 
     - Electrónica analógica. 
 * Hardware (kits)
- - (Remote)[https://zolertia.io/product/re-mote/] by (Zolertia)[https://zolertia.io] or
- - Any Lauchpad by (Texas Instruments) supporting IEEE 802.15.4 standard, for example:
- 	* https://www.ti.com/tool/LAUNCHXL-CC2650
- 	* https://www.ti.com/tool/LAUNCHXL-CC1350
- 	* https://www.ti.com/tool/LAUNCHXL-CC2650	
- 	* https://www.ti.com/tool/CC2650STK
- 	* https://www.ti.com/tool/CC1350STK
+   - [Remote](https://zolertia.io/product/re-mote/) by [Zolertia](https://zolertia.io) or
+ - Any Lauchpad by [Texas Instruments](https://www.ti.com/) supporting IEEE 802.15.4 standard, for example:
+ 	* [LAUNCHXL-CC2650](https://www.ti.com/tool/LAUNCHXL-CC2650)
+ 	* [LAUNCHXL-CC1350](https://www.ti.com/tool/LAUNCHXL-CC1350)
+ 	* [LAUNCHXL-CC2650](https://www.ti.com/tool/LAUNCHXL-CC2650)	
+ 	* [Sensortag CC2650STK](https://www.ti.com/tool/CC2650STK)
+ 	* [Sensortag CC1350STK](https://www.ti.com/tool/CC1350STK)
  - and optionally
- 	* JTAG probe as suggested ()J-Link EDU Mini) [https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/]
+ 	* JTAG probe (suggested [J-Link EDU Mini](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/)
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
