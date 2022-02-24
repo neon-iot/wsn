@@ -1,21 +1,42 @@
-# Demo course template
+# Wireless Sensor Networks (Redes de sensores inalámbricos)
 ## About this course
-This course...
+The course introduces the student to the basic operating principles of wireless sensor networks, familiarizing them with current technologies for their implementation and going deeply into the protocol stack based on IEEE 802.15.4 and 6LoPAN (IETF).
+
+## About this teaching material
+This course was created ten years ago and has evolved over time.
+The last innovation refers updating the laboratories to lab-at-home.  
 
 ## Main topics
-* This
-* That
+* Introduction and basic concepts of WSN.
+* Introduction to 6LoWPAN communication stack and IPv6
+* Hardware platforms
+* Software platform (Contiki-NG)
+* Physical layer (IEEE 802.15.4 PHY)
+* Medium Access Protocols (IEEE 802.15.4 MAC, TSCH and 6TiSCH)
+* IPv6 adaptation layer (from IEEE 802.15.4 to IPv6)
+* Network Layer (IETF RPL)
+* Application Layer (CoAP and MQTT)
 
 ## What you will learn
-* This
-* That
-* ...
+* Main concepts and design challenges on WSN
+* Programming using the Contiki-NG (an operating system for IoT resource-constrained devices)
+* Main concepts and implmentation of a communication stack
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
-
-
+* Required skills:
+ - Programación en lenguaje C.
+ - Electrónica digital. 
+ - Electrónica analógica. 
+* Hardware (kits)
+ - (Remote)[https://zolertia.io/product/re-mote/] by (Zolertia)[https://zolertia.io] or
+ - Any Lauchpad by (Texas Instruments) supporting IEEE 802.15.4 standard, for example:
+ 	* https://www.ti.com/tool/LAUNCHXL-CC2650
+ 	* https://www.ti.com/tool/LAUNCHXL-CC1350
+ 	* https://www.ti.com/tool/LAUNCHXL-CC2650	
+ 	* https://www.ti.com/tool/CC2650STK
+ 	* https://www.ti.com/tool/CC1350STK
+ - and optionally
+ 	* JTAG probe as suggested ()J-Link EDU Mini) [https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/]
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
