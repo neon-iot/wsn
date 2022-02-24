@@ -24,7 +24,7 @@ The last innovation refers updating the laboratories to lab-at-home.
 
 ## What you will need:
 * Required skills:
-    - Languaje C programming
+    - Language C programming
     - Digital electrónics. 
     - Analog electrónics. 
 * Hardware (kits)
