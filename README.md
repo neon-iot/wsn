@@ -2,6 +2,8 @@
 ## About this course
 The course introduces the student to the basic operating principles of wireless sensor networks, familiarizing them with current technologies for their implementation and going deeply into the protocol stack based on IEEE 802.15.4 and 6LoPAN (IETF).
 
+The course includes [lectures](lectures/README.md), [laboratories](labs/README.md), and a final project.
+
 ## About this teaching material
 This course was created ten years ago and has evolved over time.
 The last innovation refers updating the laboratories to lab-at-home.  
