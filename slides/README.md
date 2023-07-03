@@ -1,1 +1,12 @@
-# Slide decks files
+# Lectures (slides)
+
+* [Introducción](T1-Introduccion.pdf)
+* [Modelo de capas e Introducción a IPv6](T2-Modelo-de-Capas-e-Introduccion-a-IPv6.pdf)
+* [Plataformas de hardware](T3-Plataforma-hardware.pdf)
+* [Contiki-OS: parte 1](T4-Contiki-Parte-I.pdf)
+* [Contiki-OS: parte 2](T5-Contiki-Parte-II.pdf)
+* [Capa de aplicación: CoAP](T6-CoAP.2022.pdf)
+* [Capa de red: RPL](T7-RPL.pdf)
+* [Protocolos de acceso al medio (MAC)](T8-MAC.pdf)
+* [IEEE802.15.4 & 6lowpan (capa de adaptación a IPv6)](T9-6lowpan.pdf)
+* [Introducción a IoT (Internet de las Cosas)](T10-Introduccion-IoT.pdf)
