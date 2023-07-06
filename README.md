@@ -41,6 +41,16 @@ More information, material, and active discussion forums can be found [here](htt
  	* [Sensortag CC1350STK](https://www.ti.com/tool/CC1350STK)
  - and optionally
  	* JTAG probe (suggested [J-Link EDU Mini](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/))
+
+## Authors
+* Lectures (authorship indicated in the corresponding slides)
+  - Leonardo Steinfeld and Javier Schandy.
+* Laboratories:
+   - Leonardo Steinfeld
+   - Javier Schandy
+   - Mariana Siniscalchi
+   - Nicolás Gammarano
+
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
