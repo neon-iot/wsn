@@ -6,7 +6,9 @@ The course includes [lectures](slides/README.md), [laboratories](labs/README.md)
 
 ## About this teaching material
 This course was created ten years ago and has evolved over time.
-The last innovation refers updating the laboratories to lab-at-home.  
+The last innovation refers updating the laboratories to lab-at-home and material (kits and instrumentation).  
+The material available consists of [lectures](slides/README.md) and [laboratories](labs/README.md) (in Spanish).
+More information, material, and active discussion forums can be found [here](https://eva.fing.edu.uy/course/view.php?name=rsi).
 
 ## Main topics
 * Introduction and basic concepts of WSN.
