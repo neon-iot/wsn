@@ -48,7 +48,8 @@ More information, material, and active discussion forums can be found [here](htt
    - Leonardo Steinfeld
    - Javier Schandy
    - Mariana Siniscalchi
-   - Nicolás Gammarano
+   - Andrés Seré
+   - Rosina D'Eboli
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
